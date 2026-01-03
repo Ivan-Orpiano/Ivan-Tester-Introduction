@@ -8,7 +8,7 @@ I am a Computer Science student with a strong interest in **Software Quality Ass
 
 ---
 
-## 🧪 Skills & Expertise
+## 🧪 Skills 
 
 ### Software Testing
 - Manual Testing (Test Planning, Test Case Design & Execution)
