@@ -57,7 +57,8 @@ I am a Computer Science student with a strong interest in **Software Quality Ass
 ---
 
 ## 📫 Let’s Connect
-- GitHub: [github.com/lvan-Orpiano](https://github.com/lvan-Orpiano)
+- Facebook: https://www.facebook.com/vvanritch
+- Instagram: https://www.instagram.com/softaivan/
 - Email: ivanritchelorpiano@gmail.com
 
 ---
